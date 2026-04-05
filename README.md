@@ -1,6 +1,6 @@
-#Alfa
+# Alfa
 
-| alfa  | keibel tenorio | Guatire,Venezuela |
-| :---- | :------------- | :---------------- |
-| bravo | kevin tenorio  | Guatire,Venezuela |
-| :---  | :---           | :---              |
+| Rol | Nombre | Ubicación |
+| :--- | :--- | :--- |
+| alfa | keibel tenorio | Guatire, Venezuela |
+| bravo | kevin tenorio | Guatire, Venezuela |
