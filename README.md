@@ -1,1 +1,6 @@
-# hg_1_bravo
+
+# Bravo 
+| Alias | Nombre | Ubicación |
+| :--- | :--- | :--- | 
+| Bravo | Kevin Tenorio | Guatire , Venezuela | 
+| Alfa | Keibel Tenorio | Guatire , Venezuela  |
